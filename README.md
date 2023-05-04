@@ -1,2 +1,2 @@
 # SA_Bdarija
-Sentiment Analaysis based on the moroccan dialect
+Sentiment Analysis based on the moroccan dialect
